@@ -1,8 +1,22 @@
-# Svelte + Vite
 
-This template should help get you started developing with Tauri and Svelte in Vite.
+# Features
 
-## Recommended IDE Setup
+## open notes
+- render markdown
+- vim keys to scroll
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+## edit notes
+- vim edit mode
 
+## create notes
+create a new .md file in the selected folder
+## delete notes
+delete note
+
+# Stack
+- tauri
+- svelte
+
+## examples
+https://github.com/FPurchess/blank
+https://github.com/tywil04/parchment
